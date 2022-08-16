@@ -1,4 +1,4 @@
-![Mi foto](./assets/MiFoto.PNG)
+![Mi foto](./assets/MiFoto.png)
 
 # Introducción
 
